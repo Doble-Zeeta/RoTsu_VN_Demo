@@ -16,7 +16,7 @@ namespace VN_RO_TSU_DEMO
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new menusart());
         }
     }
 }
